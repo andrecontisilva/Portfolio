@@ -1,6 +1,6 @@
 # Painel Visual Michael Jackson (Challenge FIAP - "DSRPT21")
 
-## Sobre o Painel Visual Michael Jackson
+## Sobre o Dashboard
 
 Este dashboard desenvolvido em Power BI foi um dos entregáveis da minha equipe para o Challenge da FIAP, no 2º Semestre de 2020 (["DSRPT21"](https://www.fiap.com.br/graduacao/dsrpt21/)).
 
