@@ -4,7 +4,7 @@
 
 Este dashboard desenvolvido em Power BI foi um dos entregáveis da minha equipe para o Challenge da FIAP, no 2º Semestre de 2020 (["DSRPT21"](https://www.fiap.com.br/graduacao/dsrpt21/)).
 
-Enquanto os demais integrantes do grupo desenvolviam os outros módulos do nosso projeto geral, fiquei como responsável pela coleta de dados, modelagem e desenvolvimento deste dashboard. O Painel foi construído em um período de aproximadamente quatro dias, contados a partir da coleta dos dados na wikipedia e modelagem final dos visuais em Power BI.
+Enquanto os demais integrantes do grupo desenvolviam os outros módulos do nosso projeto geral, fiquei como responsável pela coleta de dados, modelagem e desenvolvimento deste dashboard. O Painel foi construído em um período de aproximadamente três dias, contados a partir da coleta dos dados na wikipedia e modelagem final dos visuais em Power BI.
 
 Mais detalhes sobre a construção deste painel estão no PDF ["PainelVisual_MichaelJackson-1TBDS_Grupo2_Descritivo"](https://github.com/andrecontisilva/Portfolio/blob/main/PowerBI/PainelVisualMJ/PainelVisual_MichaelJackson-1TBDS_Grupo2_Descritivo.pdf).
 
